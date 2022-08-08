@@ -64,7 +64,7 @@
   width: 65%;
 }
 .search-container button{
-  background-color: #639bfb;
+  background-color: #5a0353;
   border:none;
   padding:15px 30px;
   border-radius: 10px;
@@ -73,7 +73,7 @@
   cursor: pointer;
 }
 .search-container button:hover{
-  background-color: #4a87ff;
+  background-color: #b526f7;
 }
 .content-container{
   background-color: rgb(217, 241, 6);

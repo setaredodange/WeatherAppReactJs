@@ -11,4 +11,4 @@ const Search = ({setQuery})=>{
         </div>
     )
 }
-export default Search
+export default Search;

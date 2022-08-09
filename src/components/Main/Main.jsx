@@ -6,7 +6,7 @@ import Weather from "../Weather/Weather";
 const Main = () => {
     const [query,setQuery] = useState("Tehran")
     const API_KEY = "10e500a2733b2361f1e74acf08b3cccc";
-    const URL = `https://api.openweathermap.org/data/2.5/forecast?q=${query}&appid=${API_KEY}&units=metric&cnt=7`;
+    const URL = `https://api.openweathermap.org/data/2.5/forecast?q=${query}&appid=${API_KEY}&units=metric&cnt=12`;
 
     const [data,setData] = useState()
 

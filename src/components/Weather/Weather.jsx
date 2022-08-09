@@ -2,6 +2,7 @@ import React from "react";
 import HoursForcast from "../HoursForcast/HoursForcast";
 
 const Weather = ({data}) => {
+    console.log(data)
     return (
         <div className={`content-container`}>
             <div className={`content-container-title`}>
